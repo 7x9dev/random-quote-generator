@@ -24,6 +24,14 @@ body {
    width: 700px;
    cursor: pointer;
 }
+#btn:hover {
+   background: linear-gradient(
+      123.5deg,
+      rgb(244, 219, 251) 29.3%,
+      rgb(255, 214, 214) 67.1%
+   );
+   color: #38598b;
+}
 #quote {
    font-family: "Prata", serif;
    font-weight: 400;
@@ -31,6 +39,6 @@ body {
    margin: 0;
    margin-bottom: 60px;
    color: #fff;
-   padding: 0 150px;
+   padding: 0 200px;
    text-align: center;
 }
