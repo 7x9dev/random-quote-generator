@@ -23,6 +23,8 @@ body {
    padding: 20px 30px;
    width: 700px;
    cursor: pointer;
+   position: fixed;
+   margin-top: 180px;
 }
 #btn:hover {
    background: linear-gradient(
@@ -37,7 +39,7 @@ body {
    font-weight: 400;
    font-size: 60px;
    margin: 0;
-   margin-bottom: 60px;
+   margin-bottom: 180px;
    color: #fff;
    padding: 0 200px;
    text-align: center;
